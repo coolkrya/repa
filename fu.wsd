@@ -5,4 +5,10 @@
 usecase Прецедент3
 usecase (Последний\nпрецедент) as UC4
 
+
+:Первый Actor:
+:Второй\nactor: as Участник2
+actor Участник3
+actor :Последний actor: as Участник4
+
 @enduml
