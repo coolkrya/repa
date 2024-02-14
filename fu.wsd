@@ -1,0 +1,8 @@
+@startuml Example
+
+(Один прецедент)
+(Другой прецедент) as (UC2)
+usecase Прецедент3
+usecase (Последний\nпрецедент) as UC4
+
+@enduml
